@@ -1,0 +1,60 @@
+teams:
+  - name: The-snake-charmers
+    members:
+     - twchen@deloitte.co.uk
+     - bwills@deloitte.co.uk
+     - hlevene@deloitte.co.uk
+     - lteodoro@deloitte.co.uk
+     - ndhanalakota@deloitte.co.uk
+    icon: "https://www.boredpanda.com/blog/wp-content/uploads/2019/09/funny-snakes-arms-doodle-38-5d81e0dde0a11__700.jpg"
+  - name: Pitbull
+    members:
+     - vmagis@deloitte.co.uk 
+     - oorders@deloitte.co.uk
+     - esheppard@deloitte.co.uk
+    icon: "https://i.scdn.co/image/ab6761610000e5eb2dc40ac263ef07c16a95af4e"
+  - name: The-Pentagon
+    members:
+     - mlo@deloitte.co.uk
+     - cgrahamwood@deloitte.co.uk
+     - fangbingdeng@deloitte.co.uk
+     - jeamoah@deloitte.co.uk
+     - hemalmunbodh@deloitte.co.uk
+    icon: "https://www.syfy.com/sites/syfy/files/styles/blog-post-embedded--tablet-1_5x/public/gudetama-hero.jpg"
+  - name: BAZINGA
+    members:
+     - zhashi@deloitte.co.uk
+     - dustinbaek@deloitte.co.uk
+     - yfaizi@deloitte.co.uk
+     - saboaba@deloitte.co.uk
+    icon: https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/12/Big-Bang-Theory-Bazinga-2.png
+  - name: AI-Studio
+    members:
+     - manishxpatel@deloitte.co.uk
+     - rflint@deloitte.co.uk
+  - name: DemoNish
+    members:
+     - ndhage@deloitte.co.uk
+    icon: "https://yt3.ggpht.com/a/AATXAJww0BWLkH9DnwrEh-6KXPdz8KrdhL96RZ8FMw=s900-c-k-c0xffffffff-no-rj-mo"
+  - name: Prateik
+    members:
+     - prchettri@deloitte.co.uk
+    icon: https://www.pastposters.com/cw3/assets/product_full/JamieR-AC/solo-cinema-one-sheet-movie-poster-(1).jpg
+  - name: Cobra
+    members:
+     - mnvazquez@deloitte.co.uk
+     - dkontzedakis@deloitte.co.uk
+  - name: SoloQueue
+    members:
+     - yuwarajneelakandan@deloitte.co.uk
+  - name: UltimateCobra
+    members:
+     - fakhter@deloitte.co.uk
+     - pknowles@deloitte.co.uk
+  - name: David-Eves
+    members:
+     - deves@deloitte.co.uk
+  - name: Hakan
+    members:
+     - hbas@deloitte.co.uk
+

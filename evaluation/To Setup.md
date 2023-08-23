@@ -1,0 +1,7 @@
+ - Need an EC2 instance and an SQS service to be running on AWS project
+ - Need root credentials on the machine (or at least creds with access to SQS Read and Delete, and Object Read from S3 bucket)
+ - Need SSH key from the machine added to the Github account to clone repo
+ - `aws` cli installed and authenticated on the EC2, configured to get text output and to have `eu-west-2` as the default region
+ - Have `moreutils` installed on the machine
+ - Have `unzip` installed on the machine
+ - Have `pyyaml` installed in the virtual environment
